@@ -74,5 +74,4 @@ thegreatestchart = table: komponent :: String, energi :: Number
   row: "offtjen", 4
 end
 
-bar-chart(thegreatestchart, "komponent", "energi")
-
+bar-chart(thegreatestchart, "komponent", "energi") # dette lager en visuell tabell av utslippstall, med bil inkludert, da jeg har gitt verdien. 
